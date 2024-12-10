@@ -1,9 +1,20 @@
-All Windows 7 brandings at one place. Higher resolutions are included in [releases](https://github.com/birbkeks/windows7-brandings/releases).
+All Windows brandings in one place. Higher resolutions are included in [releases](https://github.com/birbkeks/windows-brandings/releases).
 
+<details>
+  <summary>Windows Vista !!!WIP!!!</summary>
 
-# Transparent
+## Transparent
 
-[Windows 7 Starter](https://github.com/birbkeks/windows7-brandings/releases/tag/starter): <br>
+## White Background
+
+</details>
+
+<details>
+  <summary>Windows 7</summary>
+
+## Transparent
+
+[Windows 7 Starter](https://github.com/birbkeks/windows7-brandings/releases/tag/starter):<br>
 ![120](https://github.com/user-attachments/assets/0dc74fce-e693-4445-aa0b-9e2f9c94c4b7)
 
 [Windows 7 Home Basic](https://github.com/birbkeks/windows7-brandings/releases/tag/home-basic):<br>
@@ -21,7 +32,7 @@ All Windows 7 brandings at one place. Higher resolutions are included in [releas
 [Windows 7 Ultimate](https://github.com/birbkeks/windows7-brandings/releases/tag/ultimate):<br>
 ![120](https://github.com/user-attachments/assets/2222ca55-6545-4fb8-9c5a-aec075ef1291)
 
-# White Background
+## White Background
 
 Windows 7 Starter:<br>
 ![121](https://github.com/user-attachments/assets/5f2b9506-5a8c-41de-ba60-e05d9c4b284d)
@@ -41,3 +52,31 @@ Windows 7 Enterprise:<br>
 Windows 7 Ultimate:<br>
 ![121](https://github.com/user-attachments/assets/819d9366-443a-4d53-9ade-e4bbdd2a15a9)
 
+</details>
+
+<details>
+  <summary>Windows 8 !!!WIP!!!</summary>
+
+## Transparent
+
+## White Background
+
+</details>
+
+<details>
+  <summary>Windows 10 !!!WIP!!!</summary>
+
+## Transparent
+
+## White Background
+
+</details>
+
+<details>
+  <summary>Windows 11 !!!WIP!!!</summary>
+
+## Transparent
+
+## White Background
+
+</details>
