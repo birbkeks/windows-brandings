@@ -1,7 +1,13 @@
 All Windows brandings in one place. Higher resolutions are included in [releases](https://github.com/birbkeks/windows-brandings/releases).
 
+# Where to find?
+Go to ```C:\Windows\Branding\Basebrd``` and copy ```basebrd.dll``` then open it with 7zip. Then, go to ```.rsrc\IMAGE``` and copy everything to your desktop and add ".png" to end of the file names. <br>
+
+Example: 123 to 123.png
+
+## Windows Vista !!!WIP!!!
 <details>
-  <summary>Windows Vista !!!WIP!!!</summary>
+  <summary></summary>
 
 ## Transparent
 
@@ -9,8 +15,9 @@ All Windows brandings in one place. Higher resolutions are included in [releases
 
 </details>
 
+## Windows 7
 <details>
-  <summary>Windows 7</summary>
+  <summary></summary>
 
 ## Transparent
 
@@ -54,29 +61,28 @@ Windows 7 Ultimate:<br>
 
 </details>
 
+## Windows 8 !!!WIP!!!
 <details>
-  <summary>Windows 8 !!!WIP!!!</summary>
+  <summary></summary>
 
-## Transparent
-
-## White Background
+![124](https://github.com/user-attachments/assets/bebacf1b-2937-4026-9e1b-daf87d0d7243)
+![1124](https://github.com/user-attachments/assets/7c3a8f60-4434-42f9-a6f2-36c12b7bbcfa)
+![2124](https://github.com/user-attachments/assets/4e3b3f10-b023-4de9-b153-d629782d21d8)
 
 </details>
 
+## Windows 10 !!!WIP!!!
 <details>
-  <summary>Windows 10 !!!WIP!!!</summary>
-
-## Transparent
-
-## White Background
+  <summary></summary>
 
 </details>
 
+## Windows 11
 <details>
-  <summary>Windows 11 !!!WIP!!!</summary>
-
-## Transparent
-
-## White Background
+  <summary></summary>
+  
+![123](https://github.com/user-attachments/assets/9e548c08-3c21-4d63-89d4-27152d9dbe3c)
+![1123](https://github.com/user-attachments/assets/5ebf735f-44cd-43e5-922b-e36f6c4e5dd8)
+![2123](https://github.com/user-attachments/assets/b067dec4-a45a-4761-80b2-28affa9653a6)
 
 </details>
